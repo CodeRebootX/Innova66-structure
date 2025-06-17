@@ -1,0 +1,54 @@
+# ========================
+# SISTEMA Y TEMPORALES
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# LOGS
+# ========================
+*.log
+*.log.*
+*.log.*.gz
+*.gz
+logs/
+
+# ========================
+# BACKEND: SPRING BOOT
+# ========================
+target/
+*.class
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# ========================
+# FRONTEND: FLUTTER
+# ========================
+**/build/
+.dart_tool/
+.flutter-plugins
+.packages
+pubspec.lock
+
+# Flutter platform directories
+ios/
+android/
+
+# ========================
+# IDEs
+# ========================
+.idea/
+*.iml
+.vscode/
+.settings/
+
+# ========================
+# ARCHIVOS PERSONALES / MISC
+# ========================
+*.swp
+*.bak
+*.tmp
+*.orig
