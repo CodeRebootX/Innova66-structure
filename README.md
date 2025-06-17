@@ -72,7 +72,7 @@ main.dart                 # Punto de entrada Flutter
 ---
 
 ## 🛡️ Estado del código
-Este repositorio no contiene el código fuente completo,en cumplimiento de un acuerdo de uso con la empresa colaboradora.  
+Este repositorio no contiene el código fuente completo, en cumplimiento de un acuerdo de uso con la empresa colaboradora.  
 La estructura del backend y frontend se publica con fines académicos y demostrativos.  
 
 ---
